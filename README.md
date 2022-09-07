@@ -10,7 +10,7 @@
 <img src="https://github.com/stojchevskiboris/LogoDesigns/blob/master/AvtokampOtesevoWeb.png" width="1080"/> 
 
 <hr>
-<img src="https://github.com/stojchevskiboris/LogoDesigns/blob/master/v3.png" width="500"/>
+<img src="https://github.com/stojchevskiboris/LogoDesigns/blob/master/preview2.png" width="500"/>
 <img src="https://github.com/stojchevskiboris/LogoDesigns/blob/master/final.jpg" width="1080"/>
 
-<img src="https://github.com/stojchevskiboris/LogoDesigns/blob/master/v_1.png" width="900"/>
+<img src="https://github.com/stojchevskiboris/LogoDesigns/blob/master/preview.png" width="900"/>
